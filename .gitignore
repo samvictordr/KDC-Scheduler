@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Local Claude Code settings (machine-specific)
+.claude/
+.claude/*
+
+# Logs / editor cruft
+*.log
+
+# readme. no this wont have a readme. i know you hate that. live with it.
+readme.md
